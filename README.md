@@ -63,5 +63,9 @@ EKS cluster’ın başarılı bir şekilde oluşturulduğunu doğrulamak için �
 aws eks --region eu-west-2 update-kubeconfig --name eks-cluster
 ```
 
+```sh
+kubectl get nodes
+```
+
 
 
