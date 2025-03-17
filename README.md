@@ -1,6 +1,6 @@
-# 🚀 Terraform ile AWS EKS Cluster Kurulumu – Adım 6
+# 🚀 Terraform ile AWS EKS Cluster Kurulumu 
 
-Bu döküman, Terraform kullanarak AWS üzerinde bir EKS cluster oluşturma sürecinin **6. adımını** açıklamaktadır.
+Bu döküman, Terraform kullanarak AWS üzerinde bir EKS cluster oluşturma sürecini açıklamaktadır.
 
 ## 📍 Gereksinimler
 
